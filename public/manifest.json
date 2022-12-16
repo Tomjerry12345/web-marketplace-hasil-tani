@@ -1,0 +1,25 @@
+{
+  "short_name": "e-Tani Takalar",
+  "name": "e-Tani Takalar",
+  "icons": [
+    {
+      "src": "logoEtani64.png",
+      "sizes": "64x646",
+      "type": "image/png"
+    },
+    {
+      "src": "logoEtani192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logoEtani512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
